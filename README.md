@@ -61,7 +61,7 @@ Replace the contents of `index.html`, `main.ts` and `style.css` with the code be
 </html>
 ```
 
-```html
+```diff
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -71,7 +71,6 @@ Replace the contents of `index.html`, `main.ts` and `style.css` with the code be
   </head>
 
   <body>
-+   <canvas id="canvas"></canvas> <!-- This line is new -->
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>
