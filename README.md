@@ -36,11 +36,7 @@ npm run dev
 Open the terminal in projects directory and execute these commands below.
 
 ```bash
-npm install -D three
-```
-
-```bash
-npm install -D @types/three
+npm install -D three @types/three
 ```
 
 ### Replace Contents of Remaining Files
