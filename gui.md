@@ -11,6 +11,7 @@ npm install lil-gui
 
 Add gui into the code
 
+`./src/main.ts`
 ```ts
 import './style.css'
 import * as THREE from 'three'
