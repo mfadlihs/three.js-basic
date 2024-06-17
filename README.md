@@ -61,22 +61,6 @@ Replace the contents of `index.html`, `main.ts` and `style.css` with the code be
 </html>
 ```
 
-```diff
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Three.js TypeScript</title>
-  </head>
-
-  <body>
-+   <canvas id="canvas"></canvas> <!-- This line is new -->
-    <script type="module" src="/src/main.ts"></script>
-  </body>
-</html>
-```
-
 ./src/style.css
 
 ```css
