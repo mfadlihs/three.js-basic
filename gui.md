@@ -6,7 +6,7 @@ We can install the `lil-gui` from its official repository.
 
 
 ```bash
-npm install lil-gui
+npm install -D lil-gui
 ```
 
 Add gui into the code
