@@ -10,11 +10,11 @@ The Perspective projection is designed to mimic the way the human eye sees. It i
 
 Perspective Projection
 
-<img src="assets/images/perspective-projection.png" width="400" height="auto" alt="Perspective Projection">
+<img src="assets/images/perspective-projection.png" width="600" height="auto" alt="Perspective Projection">
 
 Perspective Camera
 
-<img src="assets/images/perspective-view-frustum.png" width="400" height="auto" alt="Perspective Camera">
+<img src="assets/images/perspective-view-frustum.png" width="600" height="auto" alt="Perspective Camera">
 
 [Vertex Transformation](https://en.wikibooks.org/wiki/GLSL_Programming/Vertex_Transformations)
 
@@ -100,9 +100,9 @@ The Orthographic projection is like a cube in itself where the perspective remai
 Orthographic Projection
 
 
-<img src="assets/images/orthographic-projection.png" width="400" height="auto" alt="Orthographic Projection">
+<img src="assets/images/orthographic-projection.png" width="600" height="auto" alt="Orthographic Projection">
 
-<img src="assets/images/orthographic-view-frustum.png" width="400" height="auto" alt="Orthographic Camera">
+<img src="assets/images/orthographic-view-frustum.png" width="600" height="auto" alt="Orthographic Camera">
 
 [Vertex Transformation](https://en.wikibooks.org/wiki/GLSL_Programming/Vertex_Transformations)
 
