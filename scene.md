@@ -58,12 +58,14 @@ sceneA.background = new THREE.Color(0x123456)
 
 const sceneB = new THREE.Scene()
 sceneB.background = new THREE.TextureLoader().load(
-  'https://sbcode.net/img/grid.png'
+  'https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/images/grid.png'
 )
 
 const sceneC = new THREE.Scene()
 sceneC.background = new THREE.CubeTextureLoader()
-  .setPath('https://sbcode.net/img/')
+  .setPath(
+    'https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/images/'
+  )
   .load(['px.png', 'nx.png', 'py.png', 'ny.png', 'pz.png', 'nz.png'])
 //sceneC.backgroundBlurriness = 0.5
 
