@@ -92,7 +92,8 @@ const material = new THREE.MeshNormalMaterial({ wireframe: true })
 
 const cube = new THREE.Mesh(geometry, material)
 sceneA.add(cube)
-//sceneC.add(cube)
+sceneB.add(cube.clone())
+sceneC.add(cube.clone())
 
 const stats = new Stats()
 document.body.appendChild(stats.dom)
