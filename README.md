@@ -10,3 +10,6 @@ This knowledge sharing based on Node v18.17.1. Make sure to use this version
 
 - [1. Installation](installation.md)
 - [2. Stats Panel](stats-panel.md)
+- [3. GUI](gui.md)
+- [4. Scene](scene.md)
+- [5. Camera](camera.md)

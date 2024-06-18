@@ -140,3 +140,5 @@ In the above code, buttons are added to the GUI. The GUI will use a different co
 - `function` ⇒ will add a button
 
 Each buttons target is an object, whose property is one of the functions that set which scene is to become active when pressed. See lines 41-51 in the above code.
+
+[5. Camera](camera.md)

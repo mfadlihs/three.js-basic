@@ -47,3 +47,5 @@ function animate() {
 
 animate()
 ```
+
+[3. GUI](gui.md)
