@@ -2,7 +2,7 @@
 
 The most common Renderer used in Three.js is the `WebGLRenderer`.
 
-It paints the scene and camera information onto a HTML Canvas Element.
+It paints the **scene** and **camera** information onto a HTML Canvas Element.
 
 The WebGLRenderer will use WebGL.
 
@@ -86,6 +86,8 @@ Another useful option when instantiating a renderer is to also set the `antialia
 ```ts
 const renderer = new THREE.WebGLRenderer({ antialias: true })
 ```
+
+<img src="assets/images/antialias.jpg" width="500" height="auto" alt="Antialias">
 
 ## References
 
