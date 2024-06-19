@@ -93,6 +93,9 @@ function animate() {
 animate()
 ```
 
+<img src="assets/images/perspective-camera-structure.png" width="600" height="auto" alt="Orthographic Projection">
+
+
 ## Orthographic Camera
 
 The Orthographic projection is like a cube in itself where the perspective remains constant regardless of its distance from the camera.
