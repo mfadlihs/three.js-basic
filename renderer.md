@@ -94,3 +94,5 @@ const renderer = new THREE.WebGLRenderer({ antialias: true })
 <a href="https://threejs.org/docs/#api/en/renderers/WebGLRenderer" target="_blank">WebGLRenderer (threejs.org)</a>
 
 <a href="https://en.wikipedia.org/wiki/WebGL" target="_blank">WebGL (wikipedia)</a>
+
+[7. Animation Loop](animation.md)

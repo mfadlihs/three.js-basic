@@ -118,3 +118,5 @@ A list of Three.js Classes that extend from the [Object3D](https://threejs.org/d
   - [PositionalAudio](https://threejs.org/docs/#api/en/audio/PositionalAudio)
 
 Some of the above classes are also derived from parent classes that derive from the Object3D.
+
+[9. Object3D Hierarchy](object3dhierarchy.md)

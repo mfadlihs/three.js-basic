@@ -196,3 +196,5 @@ animate()
 <a href="https://en.wikipedia.org/wiki/Orthographic_projection#/media/File:Comparison_of_graphical_projections.svg" target="_blank">Different Projection Models (wikipedia)</a>
 
 <a href="https://en.wikipedia.org/wiki/Perspective_(graphical)" target="_blank">Perspective Projection (wikipedia)</a>
+
+[6. Renderer](renderer.md)

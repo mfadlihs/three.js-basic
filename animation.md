@@ -126,3 +126,5 @@ renderer.render(scene, camera) // render once when the scene has been setup
 ## References
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame" alt="requestAnimationFrame" target="_blank">window.requestAnimationFrame (MDN)</a>
+
+[8. Object3D](object3d.md)
