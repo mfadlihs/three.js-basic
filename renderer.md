@@ -91,6 +91,6 @@ const renderer = new THREE.WebGLRenderer({ antialias: true })
 
 ## References
 
-<a href="https://threejs.org/docs/#api/en/renderers/WebGLRenderer" alt="WebGlRenderer">WebGLRenderer (threejs.org)</a>
+<a href="https://threejs.org/docs/#api/en/renderers/WebGLRenderer" target="_blank">WebGLRenderer (threejs.org)</a>
 
-<a href="https://en.wikipedia.org/wiki/WebGL" alt="WebGL">WebGL (wikipedia)</a>
+<a href="https://en.wikipedia.org/wiki/WebGL" target="_blank">WebGL (wikipedia)</a>
