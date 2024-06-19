@@ -23,7 +23,7 @@ In this lesson, we will start by focusing on several important factors about mat
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Three.js TypeScript Tutorials by Sean Bradley : https://sbcode.net/threejs</title>
+    <title>Three.js TypeScript</title>
   </head>
 
   <body>
@@ -68,7 +68,7 @@ import Stats from 'three/addons/libs/stats.module.js'
 import { GUI } from 'lil-gui'
 
 const scene = new THREE.Scene()
-// scene.environment = new THREE.CubeTextureLoader().setPath('https://sbcode.net/img/').load(['px.png', 'nx.png', 'py.png', 'ny.png', 'pz.png', 'nz.png'])
+// scene.environment = new THREE.CubeTextureLoader().setPath('https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/images/').load(['px.png', 'nx.png', 'py.png', 'ny.png', 'pz.png', 'nz.png'])
 
 const gridHelper = new THREE.GridHelper()
 scene.add(gridHelper)

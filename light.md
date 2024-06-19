@@ -21,7 +21,7 @@ In summary,
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Three.js TypeScript Tutorials by Sean Bradley : https://sbcode.net/threejs</title>
+    <title>Three.js TypeScript</title>
   </head>
 
   <body>

@@ -39,7 +39,7 @@ import { GUI } from 'lil-gui'
 
 const scene = new THREE.Scene()
 scene.environment = new THREE.CubeTextureLoader()
-  .setPath('https://sbcode.net/img/')
+  .setPath('https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/images/')
   .load(['px.png', 'nx.png', 'py.png', 'ny.png', 'pz.png', 'nz.png'])
 
 const axesHelper = new THREE.AxesHelper(5)

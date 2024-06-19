@@ -24,14 +24,14 @@ Or we could set an image.
 
 ```diff
 const scene = new THREE.Scene()
-+ scene.background = new THREE.TextureLoader().load('https://sbcode.net/img/grid.png')
++ scene.background = new THREE.TextureLoader().load('https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/images/grid.png')
 ```
 
 Or a cube map consisting of 6 images. This can also be known as a sky box.
 
 ```diff
 const scene = new THREE.Scene()
-+ scene.background = new THREE.CubeTextureLoader().setPath('https://sbcode.net/img/').load(['px.png', 'nx.png', 'py.png', 'ny.png', 'pz.png', 'nz.png'])
++ scene.background = new THREE.CubeTextureLoader().setPath('https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/images/').load(['px.png', 'nx.png', 'py.png', 'ny.png', 'pz.png', 'nz.png'])
 ```
 
 And we can also blur the cube map to make it appear as a gradient.
