@@ -63,9 +63,9 @@ const environmentTexture = new THREE.CubeTextureLoader().setPath('https://cdn.js
 scene.environment = environmentTexture
 scene.background = environmentTexture
 
-//const hdr = 'https://sbcode.net/img/rustig_koppie_puresky_1k.hdr'
-// //const hdr = 'https://sbcode.net/img/venice_sunset_1k.hdr'
-// //const hdr = 'https://sbcode.net/img/spruit_sunrise_1k.hdr'
+//const hdr = 'https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/images/rustig_koppie_puresky_1k.hdr'
+// //const hdr = 'https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/images/venice_sunset_1k.hdr'
+// //const hdr = 'https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/images/spruit_sunrise_1k.hdr'
 
 // let environmentTexture: THREE.DataTexture
 
@@ -123,7 +123,7 @@ plane.position.y = -1
 plane.visible = false
 scene.add(plane)
 
-new GLTFLoader().load('https://sbcode.net/models/suzanne_no_material.glb', (gltf) => {
+new GLTFLoader().load('https://cdn.jsdelivr.net/gh/mfadlihs/three.js-basic@main/assets/models/suzanne_no_material.glb', (gltf) => {
   gltf.scene.traverse((child) => {
     ;(child as THREE.Mesh).material = material
   })

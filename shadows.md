@@ -416,3 +416,5 @@ animate()
 [PointLightShadow](https://threejs.org/docs/?q=pointlightsh#api/en/lights/shadows/PointLightShadow)
 
 [SpotLightShadow](https://threejs.org/docs/#api/en/lights/shadows/SpotLightShadow)
+
+[15. Environments Map](environment.md)
