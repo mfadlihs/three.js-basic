@@ -54,6 +54,8 @@ body {
 }
 ```
 
+`./src/main.ts`
+
 ```ts
 import './style.css'
 import * as THREE from 'three'
